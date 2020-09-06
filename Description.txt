@@ -1,0 +1,13 @@
+This project was made in our 7th semester of the engineering in the group of three.
+Project is for Online Reservation For Railways.
+This project helped us to understand the way website is formed.
+
+Online_Railway_Reservation_System is made in HTML,ASP and .NET languages.
+
+--Things learned from this project:
+  -Researching
+  -The whole new experience of coding, 
+  -understanding how front end and backend works
+  -we got a vision of how we'll work in future
+  
+  
